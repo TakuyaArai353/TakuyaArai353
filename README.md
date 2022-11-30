@@ -10,8 +10,16 @@
   </a>
 </p>
 
+<p>
+<a href="https://github.com/TakuyaArai353">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=TakuyaArai353&show_icons=true&theme=radical">
+</a>
+<a href="https://github.com/TakuyaArai353">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakuyaArai353&layout=compact&theme=dracula">
+</a>
+</p>
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakuyaArai353&theme=tokyonight)
 
 
 <!--
