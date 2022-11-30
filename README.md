@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="left">
+  <a href="https://github.com/TakuyaArai353/TakuyaArai353/">
+    <img src="https://komarev.com/ghpvc/?username=TakuyaArai353" alt="TakuyaArai353" />
+  </a>
+  <a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/TakuTak60415928?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 
 <!--
 **TakuyaArai353/TakuyaArai353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
