@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="150"/>
 </div>
 <p align="center">
   <a href="https://github.com/TakuyaArai353/TakuyaArai353/">
@@ -26,7 +26,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 <p>
 <a href="https://github.com/TakuyaArai353">
